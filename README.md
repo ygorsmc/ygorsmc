@@ -1,13 +1,75 @@
-👋 Hi!
-I’m @ygorsmc (Ygor Carvalho) from Brazil 🇧🇷.
+# Hi, I'm [Your Name]! 👋
+
+## Civil Engineer transitioning into the world of Data Science & AI
+
 <br>
-<br>I’m starting to be a developer and my first learning programminig language is Python!
-<br>🤺And I will try hard to be able to do amazing things and colaborate with you!
 
-You can find me on:
-- Github as @ygorsmc <a href="github.com/ygorsmc">(Only here for now...)</a>
+I'm a professional passionate about solving complex problems—a skill I developed and honed throughout my career as a Civil Engineer. I recently found my new professional calling in the world of data, and today, I am 100% dedicated to this transition, seeking an opportunity to turn data into insights and intelligent solutions.
 
-<!---
-ygorsmc/ygorsmc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+* 🔭 I’m currently focused on deepening my knowledge in Machine Learning and Python.
+* 🌱 Seeking my first opportunity to work in Data Science or AI.
+* 💬 Feel free to reach out to talk about tech, data analysis, and new projects.
+
+<br>
+
+---
+
+### 🚀 My Current Learning Journey
+
+I am fully immersed in the data ecosystem, simultaneously pursuing two degrees to build a solid and comprehensive foundation:
+
+* 👨‍💻 **Bachelor's Degree in Data Science** at UNIVESP (Virtual University of the State of São Paulo)
+* 🤖 **Technology Degree in Artificial Intelligence** at PUCPR (Pontifical Catholic University of Paraná)
+
+<br>
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+Here are some of the technologies I've been working with:
+
+<p align="left">
+  <a href="https://www.python.org" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/> 
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="45" height="45"/> 
+  </a>
+  <a href="https://numpy.org/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="45" height="45"/> 
+  </a>
+  <a href="https://scikit-learn.org/" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="45" height="45"/> 
+  </a>
+    <a href="https://www.mysql.com/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/> 
+  </a>
+  <a href="https://git-scm.com/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="45" height="45"/> 
+  </a>
+</p>
+
+<br>
+
+---
+
+### 📊 My GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[your-github-username]&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[your-github-username]&layout=compact&langs_count=7&theme=dracula"/>
+</p>
+
+<br>
+
+---
+
+---
+
+### 📫 How to reach me:
+
+<p align="left">
+<a href="mailto:[your-email@gmail.com]" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://linkedin.com/in/[your-linkedin-profile]" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</p>
