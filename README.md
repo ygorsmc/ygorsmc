@@ -70,6 +70,6 @@ Here are some of the technologies I've been working with:
 ### 📫 How to reach me:
 
 <p align="left">
-<a href="mailto:[ygorsmc@hotmail.com]" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="mailto:ygorsmc@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=outlook&logoColor=white" target="_blank"></a>
 <a href="https://linkedin.com/in/ygorsmc" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </p>
