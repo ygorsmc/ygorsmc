@@ -18,16 +18,10 @@ I'm a professional passionate about solving complex problems—a skill I develop
 
 I am fully immersed in the data ecosystem, simultaneously pursuing two degrees to build a solid and comprehensive foundation:
 
-<ul>
-<li>
-<img src="https://univesp.br/sites/58f6506869226e9479d38201/theme/images/logo-univesp.png" width="25" alt="UNIVESP Logo" style="vertical-align:middle">
-<strong>Bachelor's Degree in Data Science</strong> at UNIVESP (Virtual University of the State of São Paulo)
-</li>
-<li>
-<img src="https://upload.wikimedia.org/wikipedia/pt/archive/1/13/20210824133413!Logo_pucpr.svg" width="25" alt="PUCPR Logo" style="vertical-align:middle">
-<strong>Technology Degree in Artificial Intelligence</strong> at PUCPR (Pontifical Catholic University of Paraná)
-</li>
-</ul>
+* 👨‍💻 **Bachelor's Degree in Data Science** at UNIVESP (Virtual University of the State of São Paulo)
+* 🤖 **Technology Degree in Artificial Intelligence** at PUCPR (Pontifical Catholic University of Paraná)
+
+<br>
 
 ---
 
