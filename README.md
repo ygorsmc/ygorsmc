@@ -1,10 +1,10 @@
-# Hi, I'm [Your Name]! 👋
+# Hi, I'm Ygor! 👋
 
-## Civil Engineer transitioning into the world of Data Science & AI
+## Civil Engineer diving into the world of Data Science & AI
 
 <br>
 
-I'm a professional passionate about solving complex problems—a skill I developed and honed throughout my career as a Civil Engineer. I recently found my new professional calling in the world of data, and today, I am 100% dedicated to this transition, seeking an opportunity to turn data into insights and intelligent solutions.
+I'm a professional passionate about solving complex problems—a skill I developed and honed throughout my career as a Civil Engineer. I recently found my new professional calling in the world of data, and today, I am very dedicated to this field, seeking an opportunity to turn data into insights and intelligent solutions.
 
 * 🔭 I’m currently focused on deepening my knowledge in Machine Learning and Python.
 * 🌱 Seeking my first opportunity to work in Data Science or AI.
