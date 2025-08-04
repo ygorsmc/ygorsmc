@@ -20,7 +20,7 @@ I am fully immersed in the data ecosystem, simultaneously pursuing two degrees t
 
 <ul>
 <li>
-<img src="[(https://univesp.br/sites/58f6506869226e9479d38201/theme/images/logo-univesp.png?1746625787)]" width="25" alt="UNIVESP Logo" style="vertical-align:middle">
+<img src="https://univesp.br/sites/58f6506869226e9479d38201/theme/images/logo-univesp.png" width="25" alt="UNIVESP Logo" style="vertical-align:middle">
 <strong>Bachelor's Degree in Data Science</strong> at UNIVESP (Virtual University of the State of São Paulo)
 </li>
 <li>
